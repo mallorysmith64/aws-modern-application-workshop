@@ -22,7 +22,7 @@ This web application can be deployed in any AWS region that supports all the ser
 
 Select a region from the dropdown in the upper right corner of the AWS Management Console.
 
-### Creating your Mythical Mysifts IDE
+### Creating your Mythical Mysfits IDE
 
 #### Create a new AWS Cloud9 Environment
 
